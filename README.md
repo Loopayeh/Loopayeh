@@ -1,3 +1,11 @@
+<p align="center"><b>PS5 homebrew developer</b> — PlayStation tools in Python &amp; C++</p>
+
+<p align="center">Working on: on-console file manager for jailbroken PS5</p>
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,cpp,git" alt="Stack"></a>
+</p>
+
 ## Projects
 
 | Project | What it does |
