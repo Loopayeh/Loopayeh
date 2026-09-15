@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="logo.png" width="96" alt="Loopayeh logo">
-</p>
-
 <h1 align="center">Mohammad Loopayeh</h1>
 
 <p align="center">PS5 modding &amp; homebrew</p>
@@ -23,7 +19,9 @@ Also: 60 FPS game patches.
 
 ## Links
 
-- Telegram: [@loopayeh](https://t.me/loopayeh)
-- X: [@Loopayeh\_](https://x.com/Loopayeh_)
-- Email: [loopayeh@gmail.com](mailto:loopayeh@gmail.com)
-- Links: [loopayeh.github.io](https://loopayeh.github.io)
+<p align="center">
+  <a href="https://t.me/loopayeh"><img src="https://img.shields.io/badge/Telegram-229ED9?logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://x.com/Loopayeh_"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X"></a>
+  <a href="mailto:loopayeh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://loopayeh.github.io"><img src="https://img.shields.io/badge/Links-171717?logo=github&logoColor=white" alt="Links"></a>
+</p>
