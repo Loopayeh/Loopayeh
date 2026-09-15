@@ -1,29 +1,27 @@
-# Hi, I'm Mohammad Loopayeh
+<p align="center">
+  <img src="logo.png" width="96" alt="Loopayeh logo">
+</p>
 
-**Console shop owner · PS5 modding & homebrew · Persian game localization**
+<h1 align="center">Mohammad Loopayeh</h1>
 
-I run a console shop in Rasht, Iran, and build open-source tools around it — mostly for PlayStation packages, game libraries, and bringing games to Persian-speaking players. Also a pianist.
+<p align="center">PS5 modding &amp; homebrew · Persian game localization</p>
 
-## What I build
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+</p>
+
+## Projects
 
 | Project | What it does |
 |---|---|
-| [PKG Viewer](https://github.com/Loopayeh/pkg-viewer) | Inspect PS3 / PS4 / PS5 packages without extracting them: cover art, Title ID, region, firmware requirement, latest patch version. Self-updating `PKGViewer.exe`. |
-| [Game List](https://github.com/Loopayeh/game-list) | Scan game folders, pick and reorder titles, export a clean customer-facing PDF. Built for shop use. |
-| [PS5 File Explorer](https://github.com/Loopayeh) *(in progress)* | On-console file manager payload for jailbroken PS5 (6.02). |
+| [PKG Viewer](https://github.com/Loopayeh/pkg-viewer) | Inspect PS3 / PS4 / PS5 packages: cover art, Title ID, region, firmware, latest patch. |
+| [Game List](https://github.com/Loopayeh/game-list) | Scan game folders, pick titles, export a clean customer PDF. |
 
-Plus Persian localization work (e.g. Elden Ring subtitles) and 60 FPS game patches.
+Also: Persian game subtitles and 60 FPS patches.
 
-## Stack
-
-`Python` · `C / C++` (PS5 payload SDK) · `Git / GitHub CLI` · Windows tooling
-
-## Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Loopayeh&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loopayeh&layout=compact&theme=dark)
-
-## Contact
+## Links
 
 - Telegram: [@loopayeh](https://t.me/loopayeh)
 - X: [@Loopayeh\_](https://x.com/Loopayeh_)
