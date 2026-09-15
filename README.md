@@ -1,4 +1,4 @@
-<h1 align="center">Mohammad Loopayeh</h1>
+<h1 align="center">Loopayeh</h1>
 
 <p align="center">PS5 modding &amp; homebrew</p>
 
