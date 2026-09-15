@@ -16,8 +16,8 @@
 ## Links
 
 <p align="center">
-  <a href="https://t.me/loopayeh"><img src="https://img.shields.io/badge/Telegram-000000?logo=telegram&logoColor=white&style=flat" alt="Telegram"></a>
-  <a href="https://x.com/Loopayeh_"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat" alt="X"></a>
-  <a href="mailto:loopayeh@gmail.com"><img src="https://img.shields.io/badge/Email-000000?logo=gmail&logoColor=white&style=flat" alt="Email"></a>
-  <a href="https://loopayeh.github.io"><img src="https://img.shields.io/badge/Links-000000?logo=github&logoColor=white&style=flat" alt="Links"></a>
+  <a href="https://t.me/loopayeh"><img src="https://img.shields.io/badge/Telegram-7FB3D5?logo=telegram&logoColor=white&style=flat" alt="Telegram"></a>
+  <a href="https://x.com/Loopayeh_"><img src="https://img.shields.io/badge/X-B79CED?logo=x&logoColor=white&style=flat" alt="X"></a>
+  <a href="mailto:loopayeh@gmail.com"><img src="https://img.shields.io/badge/Email-E08E8E?logo=gmail&logoColor=white&style=flat" alt="Email"></a>
+  <a href="https://loopayeh.github.io"><img src="https://img.shields.io/badge/Links-E3C878?logo=github&logoColor=white&style=flat" alt="Links"></a>
 </p>
