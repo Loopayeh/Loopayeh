@@ -8,8 +8,8 @@
 ## Links
 
 <p align="center">
-  <a href="https://t.me/loopayeh"><img src="https://img.shields.io/badge/Telegram-229ED9?logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://x.com/Loopayeh_"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X"></a>
-  <a href="mailto:loopayeh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://loopayeh.github.io"><img src="https://img.shields.io/badge/Links-171717?logo=github&logoColor=white" alt="Links"></a>
+  <a href="https://t.me/loopayeh"><img src="https://img.shields.io/badge/Telegram-000000?logo=telegram&logoColor=white&style=flat" alt="Telegram"></a>
+  <a href="https://x.com/Loopayeh_"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat" alt="X"></a>
+  <a href="mailto:loopayeh@gmail.com"><img src="https://img.shields.io/badge/Email-000000?logo=gmail&logoColor=white&style=flat" alt="Email"></a>
+  <a href="https://loopayeh.github.io"><img src="https://img.shields.io/badge/Links-000000?logo=github&logoColor=white&style=flat" alt="Links"></a>
 </p>
