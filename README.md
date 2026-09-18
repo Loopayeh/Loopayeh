@@ -15,7 +15,12 @@
 
 ## Support
 
-If my work was useful, you can support me with USDT (BEP-20 / BNB Smart Chain):
+If you enjoy what I build and want to support my work,
+you can donate
+
+Every bit of support means a lot. 💙
+
+USDT (BEP-20):
 
 `0x839a30D52Ef7D2b53e818b9931efd7FE6F472e50`
 
