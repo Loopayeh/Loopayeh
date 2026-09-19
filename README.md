@@ -11,8 +11,13 @@
 | Project | What it does |
 |---|---|
 | [PKG Viewer](https://github.com/Loopayeh/pkg-viewer) | Inspect PS3 / PS4 / PS5 packages: cover art, Title ID, region, firmware, latest patch. |
-| [PKG Sender](https://github.com/Loopayeh/pkg-sender) | Install PS5 / PS4 packages over LAN: pick games on PC, they install on the console. |
-| [Game List](https://github.com/Loopayeh/game-list) | Scan game folders, pick titles, export a clean customer PDF. |
+
+### Not released yet
+
+| Project | What it does |
+|---|---|
+| PKG Sender | Install PS5 / PS4 packages over LAN: pick games on PC, they install on the console. |
+| Game List | Scan game folders, pick titles, export a clean customer PDF. |
 
 ## Support
 
