@@ -12,6 +12,7 @@
 |---|---|
 | [PKG Viewer](https://github.com/Loopayeh/pkg-viewer) | Inspect PS3 / PS4 / PS5 packages: cover art, Title ID, region, firmware, latest patch. |
 | [Game List](https://github.com/Loopayeh/game-list) | Scan game folders, pick titles, export a clean customer PDF. |
+| [PKG Sender](https://github.com/Loopayeh/pkg-sender) | Install PS5 / PS4 packages over LAN: pick games on PC, they install on the console. |
 
 ## Support
 
