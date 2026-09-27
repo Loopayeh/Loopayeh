@@ -26,6 +26,14 @@ you can donate
 
 Every bit of support means a lot. 💙
 
+### 🇮🇷 For Iran (تومانی)
+
+<a href="https://coffeebede.com/loopayeh" target="_blank" rel="noopener"><img src="https://coffeebede.com/banner.svg?u=loopayeh" width="468" height="100" alt="برام یه قهوه بخر" /></a>
+
+[☕ برام یه قهوه بخر — coffeebede.com/loopayeh](https://coffeebede.com/loopayeh)
+
+### 🌍 International
+
 USDT (BEP-20):
 
 `0x839a30D52Ef7D2b53e818b9931efd7FE6F472e50`
