@@ -17,7 +17,7 @@
 
 | Project | What it does |
 |---|---|
-| Game List | Scan game folders, pick titles, export a clean customer PDF. |
+| Game Library | Scan game folders, pick titles, export a clean customer PDF. |
 
 ## Support
 
